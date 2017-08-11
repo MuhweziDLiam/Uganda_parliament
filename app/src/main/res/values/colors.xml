@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="colorPrimary">#2e2e2e</color>
+    <color name="colorPrimaryDark">#1d1d1d</color>
+    <color name="colorAccent">#797979</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_ten">#4CAF50</color>
+    <color name="primary">#3C515C</color>
+    <color name="bgGradientStart">#000000</color>
+    <color name="contentDividerLine">#e0e0e0</color>
+    <color name="contentBadgeTitle">#a9a9a9</color>
+
+</resources>
